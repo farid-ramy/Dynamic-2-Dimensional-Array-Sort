@@ -1,0 +1,6 @@
+﻿  2DimentionalArrayDynamicSort.cpp
+C:\Users\DELL\source\repos\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort.cpp(43,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort.cpp(56,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort.cpp(69,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort\2DimentionalArrayDynamicSort.cpp(80,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  2DimentionalArrayDynamicSort.vcxproj -> C:\Users\DELL\source\repos\2DimentionalArrayDynamicSort\Debug\2DimentionalArrayDynamicSort.exe
